@@ -39,7 +39,7 @@ I have attended 36 hackathons and game jams. 20 as a participant, 10 as a mentor
 | HackCU IV           | Hacker     | This was my first US hackathon. Boulder was alright (a bit more than that). Had time to go for a sunrise hike and go on a mini road trip. I was tricked into working on a [blockchain hack](https://devpost.com/software/yaba) again.    |
 | HackSurrey Beta     | Hacker     | Headed down to the Univeristy of Surrey for their first hackathon! |
 | Utillity Week Live Hack | Hacker     | Worked on projects to help utilities identify and support vulnerable customers. |
-
+| HacktheMidlands 2019 | Hacker     | Worked on a game using Twilio, MongoDB and basic HTML elements. |
 
 Please feel free to fork this repo and start your own list! If you need any help tweet me: [@abdulajet](http://twitter.com/abdulajet)
 
